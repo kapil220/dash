@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://www.freepik.com/premium-vector/grey-abstract-geometric-technology-shape-concept-background_2126128.htm#fromView=keyword&page=1&position=8&uuid=daca76bd-a12e-4f3d-b58b-9b02a10b35a7')",
+          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
       },
     },
   },
